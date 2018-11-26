@@ -17,3 +17,5 @@ El frontend está realizado con bootstrap 4 (el que viene incluido con Laravel) 
 Base de datos realizada en MySQL, dentro de carpeta **SQL** se encuentra el script.
 
 Ejecutado en servidor **WampServer**, si lo ejecuta desde otro servidor, por favor arreglar las rutas de formularios y demás para el correcto funcionamiento.
+
+Descargar Composer con dependencias de Laravel en el proyecto.
